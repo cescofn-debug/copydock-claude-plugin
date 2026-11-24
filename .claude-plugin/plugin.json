@@ -1,0 +1,21 @@
+{
+  "name": "copy-dock",
+  "version": "1.0.0",
+  "description": "Write and check product copy in your team's house style. Claude reads your live voice rules, word list and approved copy from Copy Dock, checks every line with plain code before it ships, and sends finished copy to your review queue. Works out of the box with a built-in starter style.",
+  "author": {
+    "name": "Copy Dock",
+    "url": "https://copydock.design"
+  },
+  "homepage": "https://copydock.design/claude",
+  "license": "MIT",
+  "keywords": [
+    "copywriting",
+    "ux writing",
+    "content design",
+    "microcopy",
+    "house style",
+    "voice and tone",
+    "error messages",
+    "localization"
+  ]
+}
